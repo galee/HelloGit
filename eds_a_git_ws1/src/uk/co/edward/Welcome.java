@@ -6,6 +6,7 @@ public class Welcome {
 		// TODO Auto-generated method stub
 		System.out.println("Hi Edward - Gitface");
 		System.out.println("Hi Edward - Gitface1");
+		System.out.println("Hi Edward - Gitface2");
 
 	}
 
