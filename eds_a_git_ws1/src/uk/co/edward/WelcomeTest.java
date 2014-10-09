@@ -9,6 +9,8 @@ public class WelcomeTest {
 	@Test
 	public void testMain() {
 		assert(true);
+		assert(true);
+
 //		fail("Not yet implemented"); // TODO
 	}
 
