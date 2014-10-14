@@ -6,7 +6,8 @@ public class MainTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("hiya");
-	
+		System.out.println("hiya1");
+
 	}
 
 }
