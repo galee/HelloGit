@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="git.makejar" default="makejar" basedir=".">
+  <target name ="compile" description="Create a jar for the HW project">
+    <javac srcdir="src" />
+  </target>
+  <target name ="makejar" depends="compile" description="Create a jar for the HW project">
+    <jar jarfile="deploy/eds_a_git_ws1.jar" includes="*.class" basedir="bin"/>
+  </target>
+</project>
